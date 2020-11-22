@@ -41,7 +41,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: jmqp04c_so3wH9nhsLnnLAZsnGh7arH5ryEtLEJlYqc # change to your verification string
 
 #--------------------------
 
@@ -51,7 +51,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/London
+timezone: Asia/Kolkata
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID

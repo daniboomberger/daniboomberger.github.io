@@ -126,7 +126,7 @@ The Screenshot were made on an kali linux machine.
 └           0x00400977      c3             ret
 
 ```
-- The main function will give you actually a lot of hints for the whole running process of the binary file
+- The main function will give you actually a lot of hints for the whole running process of the binary file.
 - Initially to that I opend up a new Terminal window and try to run the binary file
 - The first command I used was `chmod 755 impossible_password.bin` which basically gives me the rights to execute the file
 - So afterwards I ran the file with `./impossible_password.bin` and the output of the file was the following character '*'

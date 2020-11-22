@@ -10,8 +10,10 @@ title: About
 
 # "Be like a duck. Remain calm..."
 
-> I'm a programmer and cyber security enthusiast. 
-> This Blog is to share about my research and writeups I do about cyber security.
-> Hopefully I learn more by sharing this and people who read my research about specific subjects.
-> My programming languages to go are `python` or `C#`
-> Btw I don't use Arch :) -> I use mostly Kali or Ubuntu
+```
+> I'm a programmer and cyber security enthusiast.
+> This Blog is for my journey of research and creations in the IT field. 
+> Hopefully I learn a lot by sharing my projects and writeups.
+> My programming languages to go are `python` and `C#`.
+> Btw I don't use arch :) 
+```

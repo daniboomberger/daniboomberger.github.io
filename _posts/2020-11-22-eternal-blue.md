@@ -1,5 +1,6 @@
 ---
 title: "Eternal Blue"
+layout: post
 author: "daniboomberger"
 date: 2020-10-25 18:13:44 +0530
 categories: [TryHackMe,Hacktivity]

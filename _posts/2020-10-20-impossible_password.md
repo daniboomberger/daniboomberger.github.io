@@ -1,5 +1,6 @@
 ---
 title: "Impossible password"
+layout: post
 author: "daniboomberger"
 date: 2020-10-12 18:13:44 +0530
 categories: [HackTheBox,Challenges]

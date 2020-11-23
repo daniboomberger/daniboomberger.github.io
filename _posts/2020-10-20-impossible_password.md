@@ -3,7 +3,7 @@ title: "Impossible password"
 layout: post
 author: "daniboomberger"
 date: 2020-10-12 18:13:44 +0530
-categories: 'HackTheBox'
+categories: [HackTheBox, Challenges]
 tags: [htb, radare2, reverse]
 math: true
 image: /assets/img/htb_impossible_password/radare2_logo.png 

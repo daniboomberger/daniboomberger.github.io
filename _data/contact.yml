@@ -9,6 +9,9 @@
   icon: 'fab fa-github-alt'
   url: 'https://github.com/daniboomberger'
 -
+  type: hackthebox
+  icon: 'fas fa-cube'
+  url: 'https://www.hackthebox.eu/profile/276637'
 
 #Uncomment and complete the url below to enable more contact options
 # -

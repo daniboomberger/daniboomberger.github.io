@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-# "Be like a duck. Remain calm..."
+# "Brain most of the time goes brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"
 
 
 > I'm a programmer and cyber security enthusiast.
